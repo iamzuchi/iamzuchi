@@ -39,7 +39,7 @@ Tech Stack: Next.js 16 (App Router), Prisma, PostgreSQL, Tailwind CSS v4, Rechar
 
 🔗 (https://github.com/iamzuchi/workspace-pro.git)
 
-
+---
 
 ### 🍽️ SavePlate – Food Donation & Logistics Platform
 
